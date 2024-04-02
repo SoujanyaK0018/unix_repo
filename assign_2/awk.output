@@ -1,0 +1,64 @@
+ajay manager account 45000
+sunil clerk account 25000
+varun manager sales 50000
+amit manager account 47000
+tarun peon sales 23000
+deepak clerk sales 23000
+sunil peon sales 13000
+satvik director purchase 80000
+ajay manager account 45000
+varun manager sales 50000
+amit manager account 47000
+ajay 45000
+sunil 25000
+varun 50000
+amit 47000
+tarun 23000
+deepak 23000
+sunil 13000
+satvik 80000
+1 ajay manager account 45000
+2 sunil clerk account 25000
+3 varun manager sales 50000
+4 amit manager account 47000
+5 tarun peon sales 23000
+6 deepak clerk sales 23000
+7 sunil peon sales 13000
+8 satvik director purchase 80000
+ajay 45000
+sunil 25000
+varun 50000
+amit 47000
+tarun 23000
+deepak 23000
+sunil 13000
+satvik 80000
+3 varun manager sales 50000
+4 amit manager account 47000
+5 tarun peon sales 23000
+6 deepak clerk sales 23000
+1-ajay
+2-sunil
+3-varun
+4-amit
+5-tarun
+6-deepak
+7-sunil
+8-satvik
+manager
+clerk
+manager
+manager
+peon
+clerk
+peon
+director
+8
+ajay manager account 45000
+sunil clerk account 25000
+varun manager sales 50000
+amit manager account 47000
+tarun peon sales 23000
+deepak clerk sales 23000
+sunil peon sales 13000
+satvik director purchase 80000
